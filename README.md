@@ -36,7 +36,7 @@ The application currently uses **mock/static product data**, so no backend or ex
 * Create account navigation
 * Guest access option
 
-### 🏠 Home Screen
+### Home Screen
 
 * Welcome/header section
 * Search functionality
@@ -46,14 +46,14 @@ The application currently uses **mock/static product data**, so no backend or ex
 * Product cards
 * Product image, name and price
 
-### 🗂️ Categories
+### Categories
 
 * Browse grocery categories
 * Category-based product filtering
 * Dedicated category screen
 * Easy navigation between categories
 
-### 🔍 Search & Filtering
+### Search & Filtering
 
 * Search products by name
 * Filter products by category
@@ -61,7 +61,7 @@ The application currently uses **mock/static product data**, so no backend or ex
 * Clear and simple search interface
 
 
-### 📦 Product Details
+### Product Details
 
 * Product image
 * Product name
@@ -70,7 +70,7 @@ The application currently uses **mock/static product data**, so no backend or ex
 * Product category
 
 
-### 🧭 Navigation
+### Navigation
 
 The application uses a bottom navigation system for quick access to:
 
@@ -78,7 +78,7 @@ The application uses a bottom navigation system for quick access to:
 * Categories
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology       | Purpose                  |
 | ---------------- | ------------------------ |
@@ -91,7 +91,7 @@ The application uses a bottom navigation system for quick access to:
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 Before running the project, make sure you have the following installed:
 
@@ -111,7 +111,7 @@ Make sure there are no critical issues reported by Flutter Doctor.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -188,7 +188,7 @@ flutter run -d emulator-5554
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 The project follows a modular structure to keep the code clean and maintainable.
 
@@ -306,7 +306,7 @@ This helps maintain consistent:
 
 ---
 
-## 🔄 Application Flow
+## Application Flow
 
 The basic application flow is:
 
@@ -334,7 +334,7 @@ Home Screen
 
 ---
 
-## 🎨 UI & Design
+##  UI & Design
 
 The application follows a clean grocery-shopping visual style.
 
@@ -359,7 +359,7 @@ The primary brand color used throughout the application is based around:
 
 ---
 
-## 📦 State Management
+## State Management
 
 The application uses the **Provider** package for state management.
 
